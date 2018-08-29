@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+이름 : <input type="text" id="name"><br>
+나이 : <input type="text" id="age"><br>
+
+<div id="btns">
+<button>저장</button>
+<button>보기</button>
+<button>삭제</button>
+</div>
+
+<div id="rDiv"></div>
+
+<script>
+var btns = document.querySelectorAll('button');
+
+var p = [];
+
+
+
+btns[0].onclick = function(){
+	var name = document.querySelector('#name').value;
+	var age = document.querySelector('#age').value;
+	p.push({name:name, age:age});
+}
+
+btns[1].onclick = function(){
+	pr();
+}
+
+function pr(){
+	document.querySelector('#rDiv').innerHTML = JSON.stringify(p);
+	
+	var str = '<table border="1">';
+	
+	str += "<thead>";
+	str += "<tr>"
+	str += '<td><input type="checkbox" id="achk"></td>';
+	str += "<td>이름</td>";
+	str += "<td>나이</td>";
+	str += "</tr>"
+	str += "</thead>";
+	
+	str += "<tbody>"
+
+	for(var i=0 ; i<p.length ; i++){
+	str += "<tr>";
+	str += '<td><input type="checkbox" name="chk" value='+i+'></td>';
+	str += "<td>";
+
+	str += p[i].name;
+	str += "</td>"
+	str += "<td>"
+	str += p[i].age;
+	str += "</td>";
+	str += "</tr>";
+	
+	}
+	
+	str += "</tbody>";
+	str += "</table>";
+
+	document.querySelector('#rDiv').innerHTML = str;
+	
+	document.querySelector('#achk').onclick = function(){
+		var chks = document.querySelectorAll('input[name=chk]');
+		for(var i=0 ; i<chks.length ; i++){
+			chks[i].checked = this.checked;
+		}
+	}
+	
+}
+
+btns[2].onclick = function(){
+	var jj = document.querySelectorAll("input[name=chk]:checked");
+	var cnt = 0;
+	
+	for(var i=0 ; i<jj.length ; i++){
+	p.splice(jj[i].value-cnt, 1);
+	cnt++;
+	}
+	
+	pr();
+
+}
+
+
+
+
+
+
+
+
+	
+</script>
+
+</body>
+</html>
