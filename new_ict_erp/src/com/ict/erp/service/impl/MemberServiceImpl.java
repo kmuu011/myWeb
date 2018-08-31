@@ -69,18 +69,30 @@ public class MemberServiceImpl implements MemberService{
 
 	@Override
 	public Map<String, Object> deleteMi(MemberInfo mi) throws SQLException {
+		mdao.setConnection(DBCon.getCon());
+		Map<String, Object> rMap = new HashMap<String, Object>();
 		
-		return null;
+		try {
+			int result = mdao.deleteMi(mi); 
+			rMap.put("msg", "삭제 실패");
+			
+			if(result ==1) {
+				rMap.put("msg", "삭제 성공!");
+			}
+			
+		}catch(SQLException e) {
+			DBCon.closeCon();
+		}
+		return rMap;
 	}
 
 	@Override
 	public Map<String, Object> updateMi(MemberInfo mi) throws SQLException {
 		mdao.setConnection(DBCon.getCon());
 		Map<String, Object> rMap = new HashMap<String,Object>();
-		
-		int result = 0;
+
 		try {
-			result = mdao.updateMi(mi);
+			int result = mdao.updateMi(mi);
 			
 			rMap.put("msg", "수정이 실패했습니다.");
 			

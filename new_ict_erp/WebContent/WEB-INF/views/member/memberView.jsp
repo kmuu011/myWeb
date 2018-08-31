@@ -14,7 +14,7 @@
 
 <div id="wrapper" class="container">
 <jsp:include page="/WEB-INF/views/menu/left.jsp"/>
-<form action="/member/memberUpdate" method="post">
+<form name="view" method="post">
 <table  class="table">
 	<tbody id="tBody">
 		<tr>
@@ -61,10 +61,10 @@ function modify(){
 	var obj = document.querySelector("#tBody");
 	
 	var html = '<tr>'
+		html += '<td><button type="submit" onclick="remove()">삭제하기</button></td>'
 		html += '<th></th>'
 		html += '<th></th>'
-		html += '<th></th>'
-		html += '<th><button>수정하기</button></th>'
+		html += '<th><button type="submit" onclick="update()">수정하기</button></th>'
 		html += '</tr>'
 		html += '<tr>'
 		html += '<th>번호 : ${mi.miNum}</th>'
@@ -106,6 +106,15 @@ function modify(){
 		
 		obj.innerHTML = html;
 }
+
+function remove(){
+	view.action = "/member/memberDelete";
+}
+
+function update(){
+	view.action = "/member/memberUpdate";
+}
+
 
 </script>
 

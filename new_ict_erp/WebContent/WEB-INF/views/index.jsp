@@ -5,8 +5,9 @@
 <body>
 <div id="wrapper" class="container">
 <jsp:include page="/WEB-INF/views/menu/left.jsp"/>
-
-
+<c:if test="${!empty user}">
+	${user.miName}님 안녕하세요.
+</c:if>
 </div>
 
 <jsp:include page="/WEB-INF/views/menu/bottom.jsp"/>

@@ -105,12 +105,24 @@ public class MemberServlet extends HttpServlet {
 			uri = "/member/memberView";
 			
 			
+		} else if(cmd.equals("memberDelete")) {
+			MemberInfo mi = new MemberInfo();
+			
+			String miNumStr = request.getParameter("miNum");
+			
+			mi.setMiNum(Long.parseLong(miNumStr));
+			
+			request.setAttribute("rMap", ms.deleteMi(mi));
+			
+			uri = "/member/memberView";
+			
+			
+			
 		}
 		
 		}catch(SQLException e) {
 			e.printStackTrace();
 		}
-		
 		
 		doService(request, response);
 	}

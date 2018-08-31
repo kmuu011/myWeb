@@ -16,7 +16,7 @@ public class MemberDAOImpl extends CommonDAOImpl implements MemberDAO{
 		String sql = "select mi.*, di.diname, li.liname FROM "
 				+"MEMBER_INFO mi, DEPART_INFO di, LEVEL_INFO LI "
 				+"where mi.dicode = di.DICODE "
-				+"and mi.lilevel = li.lilevel";
+				+"and mi.lilevel = li.lilevel order by minum desc";
 		List<MemberInfo> miList = new ArrayList<MemberInfo>();
 		
 		try {
@@ -123,7 +123,22 @@ public class MemberDAOImpl extends CommonDAOImpl implements MemberDAO{
 	@Override
 	public int deleteMi(MemberInfo mi) throws SQLException {
 		
-		return 0;
+		String sql  = "delete member_info where minum=?";
+		
+		
+		try {
+			ps = con.prepareStatement(sql);
+			ps.setLong(1, mi.getMiNum());
+			
+			return ps.executeUpdate();
+			
+		}catch(SQLException e) {
+			throw e;
+		}finally {
+			close();
+		}
+		
+	
 	}
 
 	@Override

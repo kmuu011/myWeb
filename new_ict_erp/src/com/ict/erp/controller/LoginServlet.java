@@ -31,7 +31,6 @@ public class LoginServlet extends HttpServlet {
 		String cmd = Utils.getCmd(request.getRequestURI());
 		
 
-		
 		doService(request, response);
 		
 	}
@@ -52,7 +51,7 @@ public class LoginServlet extends HttpServlet {
 				mi.setMiId(miId);
 				mi.setMiPwd(miPwd);
 				
-				ls.login(mi);
+				request.setAttribute("rMap", ls.login(mi));
 				
 			}
 		

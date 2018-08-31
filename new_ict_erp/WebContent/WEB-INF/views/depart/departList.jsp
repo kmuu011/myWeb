@@ -52,17 +52,7 @@
 </table>
 
 <div class="page" style="text-align:center">
-			<c:if test="${page.sBlock!=1}">
-				<a href="${rPath}/depart/departList?page=${page.sBlock-page.blockSize}">pre</a>
-			</c:if>
-			<c:forEach	begin="${page.sBlock}" end="${page.lBlock}" var="p">
-				[<a href="${rPath}/depart/departList?page=${p}">${p}</a>]
-			</c:forEach>
-			<c:if test="${page.lBlock!=page.totalBlock}">
-				[<a href="${rPath}/depart/departList?page=${page.sBlock+page.blockSize}">next</a>]
-			</c:if>
-		</div>
-
+			<jsp:include page="/WEB-INF/views/menu/pagination.jsp"></jsp:include>
 </div>
 
 <div class="btns">
@@ -72,15 +62,7 @@
 </div>
 
 <script>
-	window.onload = function(){
-	var btns = document.querySelectorAll('button[data-page]');
-	for(var i=0, max=btns.length ; i<max ; i++){
-		btns[i].setAttribute('type','button');
-		btns[i].onclick = function(){
-			location.href = "/views/depart/departInsert";
-		}
-	}
-}
+
 
 var emptyList = '${empty dList}';
 

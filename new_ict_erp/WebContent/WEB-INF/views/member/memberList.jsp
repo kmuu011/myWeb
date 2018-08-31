@@ -3,10 +3,13 @@
 <%@ include file ="/WEB-INF/views/common/common.jsp" %>
 
 <body>
+
+
+
 <div id="wrapper" >
 <jsp:include page="/WEB-INF/views/menu/left.jsp"/>
 
-<div class="container button">
+<div class="button">
 	<button onclick="insertM()">추가하기</button>
 </div>
 
@@ -57,7 +60,6 @@
 <script>
 function insertM(){
 	location.href="/member/memberInsert";
-	
 }
 </script>
 

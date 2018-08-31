@@ -1,3 +1,4 @@
+<%@page import="com.ict.erp.utils.Utils"%>
 <%@page import="java.util.List"%>
 <%@page import="com.ict.erp.vo.Menu"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
@@ -10,10 +11,18 @@
 String uri = request.getRequestURI();
 String rPath = request.getContextPath();
 String title = "乃ㅇㅅㅇ乃";
-
+request.setAttribute("cmd", Utils.getCmd(uri));
 %>
 
 <c:set var="rPath" value="<%=rPath%>"/>
+<c:if test="${cmd ne 'login.jsp'}">
+	<c:if test="${empty user}">
+		<script>
+			location.href = "/login/login";
+		</script>
+	
+	</c:if>
+</c:if>
 
 <!doctype html>
 <html>
@@ -29,6 +38,28 @@ String title = "乃ㅇㅅㅇ乃";
 	<script src="<%=rPath%>/bs3/js/common.js"></script>
 	
 </head>
+
+<script>
+window.addEventListener('load',function(){
+	var btns = document.querySelectorAll('button[data-page]');
+	for(var i=0,max=btns.length;i<max;i++){
+		btns[i].setAttribute('type','button');
+		btns[i].onclick = function(){
+			location.href = this.getAttribute('data-page');
+		}
+	}
+	
+	btns = document.querySelectorAll('button[data-action]');
+	for(var i=0,max=btns.length;i<max;i++){
+		btns[i].setAttribute('type','button');
+		btns[i].onclick = function(){
+			this.form.action = this.getAttribute('data-action');
+			this.form.submit();
+		}
+	}
+	
+});
+</script>
 
  
  
