@@ -2,7 +2,10 @@ package com.ict.erp.common;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
+import java.sql.ResultSet;
+import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
@@ -12,7 +15,6 @@ public class ICTUtils {
 	private static final String PRE_FIX = "/WEB-INF/views";
 	private static final String SUF_FIX = ".jsp";
 	private static final String SEP_STR = "/";
-	
 	
 	public static String getCmd(String uri) {
 		int idx = uri.lastIndexOf(SEP_STR);
@@ -27,11 +29,14 @@ public class ICTUtils {
 		return PRE_FIX + uri + SUF_FIX;
 	}
 	
+
+	
 	public static <T> T parse(HttpServletRequest req, Class clazz){
 		Map<String,String[]> pMap = req.getParameterMap();
 		Iterator<String> it = pMap.keySet().iterator();
 		Method[] methods = clazz.getMethods();
 		T obj = null;
+		
 		try {
 			obj = (T) clazz.newInstance();
 			while(it.hasNext()) {

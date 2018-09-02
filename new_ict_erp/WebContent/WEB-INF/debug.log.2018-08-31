@@ -1,0 +1,1568 @@
+[2018-08-31 13:42:32,633] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 13:42:32,639] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 13:42:32,640]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 13:42:32,640]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 13:42:33,323] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 13:42:33,324] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 13:42:33,326] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 13:42:33,326]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 13:42:33,326]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 13:42:33,327] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 13:42:33,327]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 13:42:33,329]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 13:42:33,396] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 13:42:33,397] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 13:42:33,397]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 13:42:33,397]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 13:42:33,493] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 13:42:33,493] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 13:42:33,493]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 13:42:33,494]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 13:42:33,494] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 13:42:33,494] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 13:42:33,494]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 13:42:33,494]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 13:42:33,584] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 13:42:33,584] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 13:42:33,584]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 13:42:33,584]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 13:42:36,581] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 13:42:36,581] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 13:42:36,582]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 13:42:36,582]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 13:42:36,631] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 13:42:36,631] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 13:42:36,632]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 13:42:36,632]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 13:42:36,633] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 13:42:36,633] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 13:42:36,633]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 13:42:36,633]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 13:42:36,714] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 13:42:36,715] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 13:42:36,715]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 13:42:36,715]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 13:43:31,971] INFO (AuthFilter.java:38):/
+[2018-08-31 13:43:31,971] WARN (AuthFilter.java:39):/
+[2018-08-31 13:43:31,971]ERROR (AuthFilter.java:40):/
+[2018-08-31 13:43:31,972]FATAL (AuthFilter.java:41):/
+[2018-08-31 13:43:32,005] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 13:43:32,005] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 13:43:32,006]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 13:43:32,006]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 13:43:32,008] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 13:43:32,008] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 13:43:32,009]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 13:43:32,009]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 13:43:32,065] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 13:43:32,065] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 13:43:32,065]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 13:43:32,066]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 13:55:08,865] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 13:55:08,866] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 13:55:08,866]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 13:55:08,866]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 13:55:08,922] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 13:55:08,922] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 13:55:08,922]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 13:55:08,922]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 13:55:08,924] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 13:55:08,924] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 13:55:08,924]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 13:55:08,924]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 13:55:09,059] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 13:55:09,060] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 13:55:09,060]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 13:55:09,060]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 14:09:45,676] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 14:09:45,676] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 14:09:45,677]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 14:09:45,677]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 14:09:45,733] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 14:09:45,733] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 14:09:45,733]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 14:09:45,733]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 14:09:45,737] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 14:09:45,737] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 14:09:45,737]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 14:09:45,737]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 14:09:45,919] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 14:09:45,919] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 14:09:45,919]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 14:09:45,919]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 14:09:48,448] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 14:09:48,448] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 14:09:48,448]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 14:09:48,448]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 14:09:48,495] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 14:09:48,496] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 14:09:48,496]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 14:09:48,496]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 14:09:48,498] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 14:09:48,498] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 14:09:48,498]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 14:09:48,499]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 14:09:48,560] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 14:09:48,561] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 14:09:48,561]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 14:09:48,561]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:37,000] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:39:37,012] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:39:37,012]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:39:37,012]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:39:37,764] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:39:37,767] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:39:37,767]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:39:37,767]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:39:37,782] INFO (AuthFilter.java:38):/vendor/bootstrap/css/bootstrap.min.css
+[2018-08-31 15:39:37,783] WARN (AuthFilter.java:39):/vendor/bootstrap/css/bootstrap.min.css
+[2018-08-31 15:39:37,783]ERROR (AuthFilter.java:40):/vendor/bootstrap/css/bootstrap.min.css
+[2018-08-31 15:39:37,783] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:37,783] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:37,783]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:37,783]FATAL (AuthFilter.java:41):/vendor/bootstrap/css/bootstrap.min.css
+[2018-08-31 15:39:37,784] INFO (AuthFilter.java:38):/vendor/jquery/jquery.min.js
+[2018-08-31 15:39:37,785] WARN (AuthFilter.java:39):/vendor/jquery/jquery.min.js
+[2018-08-31 15:39:37,785]ERROR (AuthFilter.java:40):/vendor/jquery/jquery.min.js
+[2018-08-31 15:39:37,785]FATAL (AuthFilter.java:41):/vendor/jquery/jquery.min.js
+[2018-08-31 15:39:37,784]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:37,787] INFO (AuthFilter.java:38):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-08-31 15:39:37,787] WARN (AuthFilter.java:39):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-08-31 15:39:37,787]ERROR (AuthFilter.java:40):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-08-31 15:39:37,787]FATAL (AuthFilter.java:41):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-08-31 15:39:37,882] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:39:37,882] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:39:37,883]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:39:37,883]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:39:37,987] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:39:37,987] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:39:37,987]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:39:37,988]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:39:38,006] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:38,006] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:38,006]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:38,006]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:38,073] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:38,073] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:38,073]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:38,073]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:40,421] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:39:40,421] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:39:40,421]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:39:40,421]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:39:40,458] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:40,458] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:40,458]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:40,458]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:40,461] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:39:40,461] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:39:40,461]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:39:40,461]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:39:40,497] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:39:40,498] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:39:40,498]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:39:40,498]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:39:40,564] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:39:40,564] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:39:40,564]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:39:40,564]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:39:40,566] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:40,566] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:40,566]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:40,566]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:40,626] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:40,627] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:40,627]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:40,627]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:47,084] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:39:47,084] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:39:47,084]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:39:47,084]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:39:47,141] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:39:47,142] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:39:47,142]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:39:47,142]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:39:47,143] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:47,143] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:47,143]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:47,143]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:47,207] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:47,207] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:47,207]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:47,207]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:48,268] INFO (AuthFilter.java:38):/
+[2018-08-31 15:39:48,268] WARN (AuthFilter.java:39):/
+[2018-08-31 15:39:48,268]ERROR (AuthFilter.java:40):/
+[2018-08-31 15:39:48,269]FATAL (AuthFilter.java:41):/
+[2018-08-31 15:39:48,292] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:39:48,293] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:39:48,293]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:39:48,293]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:39:48,293] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:48,293] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:48,293]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:48,293]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:48,340] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:48,340] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:48,340]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:48,340]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:49,473] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:39:49,473] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:39:49,473]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:39:49,473]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:39:49,515] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:39:49,515] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:39:49,515]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:39:49,515]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:39:49,516] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:49,516] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:49,516]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:49,516]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:49,585] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:49,585] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:49,585]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:49,586]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:51,610] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:39:51,610] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:39:51,610]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:39:51,610]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:39:51,659] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:39:51,659] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:39:51,659] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:51,659]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:39:51,659] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:51,659]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:39:51,660]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:51,660]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:51,720] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:51,720] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:51,721]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:51,721]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:56,023] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:39:56,023] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:39:56,023]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:39:56,023]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:39:56,074] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:56,074] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:56,074]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:56,074]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:39:56,074] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:39:56,074] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:39:56,075]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:39:56,075]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:39:56,128] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:39:56,128] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:39:56,128]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:39:56,128]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:00,397] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:40:00,397] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:40:00,398]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:40:00,398]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:40:00,441] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:40:00,441] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:40:00,441]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:40:00,442]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:40:00,442] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:00,442] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:00,442]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:00,442]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:00,499] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:00,500] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:00,500]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:00,500]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:02,645] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:40:02,646] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:40:02,646]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:40:02,646]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:40:02,680] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:40:02,680] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:02,681] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:02,681]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:02,681]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:02,682] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:40:02,683]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:40:02,683]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:40:02,736] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:02,736] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:02,736]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:02,737]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:41,438] INFO (AuthFilter.java:38):/depart/departList
+[2018-08-31 15:40:41,438] WARN (AuthFilter.java:39):/depart/departList
+[2018-08-31 15:40:41,439]ERROR (AuthFilter.java:40):/depart/departList
+[2018-08-31 15:40:41,439]FATAL (AuthFilter.java:41):/depart/departList
+[2018-08-31 15:40:41,529] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:40:41,530] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:40:41,530]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:40:41,530]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:40:41,535] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:41,535] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:41,535]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:41,535]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:41,598] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:41,598] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:41,598]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:41,598]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:42,337] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:40:42,338] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:40:42,338]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:40:42,338]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:40:43,217] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:40:43,218] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:40:43,218]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:40:43,218]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:40:43,220] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:43,220] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:43,220]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:43,220]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:43,393] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:43,393] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:43,393]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:43,393]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:52,120] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:40:52,120] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:40:52,120]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:40:52,120]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:40:52,171] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:40:52,171] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:40:52,171]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:40:52,171]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:40:52,172] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:52,172] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:52,172]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:52,173]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:52,278] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:52,278] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:52,278]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:52,278]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:53,063] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:40:53,063] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:40:53,063]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:40:53,063]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:40:53,105] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:53,105] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:53,105]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:53,106]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:53,105] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:40:53,108] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:40:53,108]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:40:53,108]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:40:53,175] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:53,175] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:53,176]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:53,176]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:55,322] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:40:55,322] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:40:55,322]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:40:55,322]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:40:55,357] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:40:55,357] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:40:55,358]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:40:55,358]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:40:55,358] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:55,358] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:55,358]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:55,358]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:55,419] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:55,419] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:55,420]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:55,420]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:59,363] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:40:59,363] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:40:59,364]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:40:59,364]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:40:59,410] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:40:59,411] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:40:59,411]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:40:59,411]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:40:59,412] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:59,412] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:59,412]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:59,413]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:40:59,475] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:40:59,475] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:40:59,475]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:40:59,475]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:25,803] INFO (AuthFilter.java:38):/
+[2018-08-31 15:41:25,819] WARN (AuthFilter.java:39):/
+[2018-08-31 15:41:25,826]ERROR (AuthFilter.java:40):/
+[2018-08-31 15:41:25,826]FATAL (AuthFilter.java:41):/
+[2018-08-31 15:41:31,534] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:41:31,535] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:41:31,535]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:41:31,535]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:41:32,649] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:32,650] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:41:32,650] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:32,650]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:32,650]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:32,650] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:41:32,650]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:41:32,651]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:41:32,705] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:41:32,705] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:41:32,706]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:41:32,706]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:41:33,144] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:41:33,144] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:41:33,144]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:41:33,144]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:41:33,147] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:33,147] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:33,147]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:33,147]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:33,234] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:33,235] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:33,235]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:33,235]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:36,239] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:41:36,239] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:41:36,239]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:41:36,240]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:41:36,293] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:41:36,294] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:41:36,294]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:41:36,294]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:41:36,296] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:36,296] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:36,296]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:36,296]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:36,402] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:36,402] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:36,402]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:36,402]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:37,841] INFO (AuthFilter.java:38):/
+[2018-08-31 15:41:37,841] WARN (AuthFilter.java:39):/
+[2018-08-31 15:41:37,841]ERROR (AuthFilter.java:40):/
+[2018-08-31 15:41:37,841]FATAL (AuthFilter.java:41):/
+[2018-08-31 15:41:37,878] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:41:37,878] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:41:37,878]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:41:37,878]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:41:37,882] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:37,882] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:37,883]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:37,883]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:37,929] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:37,930] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:37,930]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:37,930]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:38,845] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:41:38,845] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:41:38,845]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:41:38,845]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:41:38,893] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:41:38,893] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:41:38,893]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:41:38,893]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:41:38,894] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:38,895] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:38,895]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:38,895]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:38,978] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:38,978] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:38,979]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:38,979]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:40,001] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:41:40,001] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:41:40,001]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:41:40,001]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:41:40,323] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:41:40,323] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:41:40,323]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:41:40,323]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:41:40,327] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:40,327] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:40,327]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:40,327]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:40,398] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:40,398] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:40,398]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:40,399]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:43,381] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:41:43,381] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:41:43,382]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:41:43,382]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:41:43,429] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:41:43,430] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:41:43,430]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:41:43,430]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:41:43,433] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:43,433] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:43,433]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:43,433]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:41:43,490] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:41:43,491] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:41:43,491]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:41:43,491]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:42:17,580] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:42:17,580] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:42:17,580]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:42:17,580]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:42:17,639] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:42:17,639] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:42:17,639]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:42:17,640] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:42:17,640] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:42:17,640]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:42:17,640]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:42:17,640]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:42:17,707] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:42:17,708] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:42:17,708]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:42:17,708]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:42:19,732] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:42:19,732] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:42:19,732]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:42:19,732]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:42:19,767] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:42:19,767] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:42:19,767]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:42:19,768]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:42:19,768] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:42:19,768] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:42:19,768]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:42:19,768]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:42:19,827] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:42:19,827] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:42:19,828]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:42:19,828]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:42:22,231] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:42:22,231] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:42:22,231]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:42:22,231]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:42:22,274] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:42:22,274] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:42:22,275]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:42:22,275]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:42:22,276] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:42:22,277] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:42:22,277]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:42:22,277]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:42:22,335] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:42:22,335] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:42:22,335]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:42:22,335]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:10,359] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:43:10,359] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:43:10,360]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:43:10,360]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:43:10,412] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:10,412] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:10,412] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:43:10,413]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:10,413] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:43:10,413]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:43:10,413]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:43:10,413]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:10,481] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:10,481] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:10,481]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:10,481]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:27,906] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:43:27,915] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:43:27,915]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:43:27,915]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:43:28,646] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:43:28,647] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:43:28,648]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:43:28,648]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:43:28,649] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:28,649] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:28,649]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:28,649]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:28,748] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:43:28,749] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:43:28,749]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:43:28,749]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:43:28,860] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:43:28,861] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:43:28,861]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:43:28,861]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:43:28,861] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:28,861] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:28,861]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:28,861]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:28,927] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:28,927] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:28,928]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:28,928]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:31,688] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:43:31,688] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:43:31,688]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:43:31,688]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:43:31,731] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:43:31,731] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:43:31,731]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:43:31,732]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:43:31,736] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:31,737] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:31,737]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:31,737]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:31,794] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:31,795] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:31,795]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:31,795]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:32,893] INFO (AuthFilter.java:38):/
+[2018-08-31 15:43:32,894] WARN (AuthFilter.java:39):/
+[2018-08-31 15:43:32,894]ERROR (AuthFilter.java:40):/
+[2018-08-31 15:43:32,894]FATAL (AuthFilter.java:41):/
+[2018-08-31 15:43:32,921] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:32,922] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:32,922]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:32,922] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:43:32,922] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:43:32,922]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:43:32,923]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:43:32,922]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:32,969] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:32,970] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:32,970]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:32,970]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:34,273] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:43:34,273] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:43:34,273]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:43:34,273]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:43:34,321] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:43:34,322] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:43:34,322]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:43:34,322]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:43:34,322] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:34,322] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:34,322]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:34,322]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:34,381] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:34,381] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:34,381]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:34,381]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:35,909] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:43:35,909] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:43:35,910]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:43:35,910]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:43:35,953] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:43:35,953] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:43:35,953]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:43:35,954]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:43:35,955] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:35,955] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:35,955]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:35,955]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:36,015] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:36,016] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:36,016]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:36,016]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:53,460] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:43:53,460] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:43:53,461]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:43:53,461]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:43:53,513] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:43:53,514] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:43:53,514]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:43:53,514]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:43:53,516] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:53,516] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:53,517]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:53,517]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:53,573] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:53,573] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:53,573]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:53,573]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:58,489] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:43:58,489] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:43:58,489]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:43:58,489]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:43:58,535] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:43:58,535] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:43:58,536]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:43:58,536]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:43:58,539] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:58,539] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:58,539]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:58,539]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:43:58,615] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:43:58,615] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:43:58,616]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:43:58,616]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:18,411] INFO (AuthFilter.java:38):/member/memberList
+[2018-08-31 15:44:18,411] WARN (AuthFilter.java:39):/member/memberList
+[2018-08-31 15:44:18,412]ERROR (AuthFilter.java:40):/member/memberList
+[2018-08-31 15:44:18,412]FATAL (AuthFilter.java:41):/member/memberList
+[2018-08-31 15:44:18,819] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:44:18,819] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:44:18,819]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:44:18,819]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:44:18,823] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:18,824] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:18,824]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:18,824]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:18,936] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:18,936] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:18,936]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:18,936]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:20,356] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:44:20,356] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:44:20,356]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:44:20,356]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:44:20,398] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:44:20,398] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:44:20,398]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:44:20,398]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:44:20,399] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:20,399] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:20,399]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:20,399]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:20,465] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:20,465] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:20,465]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:20,465]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:25,762] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:44:25,769] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:44:25,770]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:44:25,770]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:44:26,434] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:44:26,437] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:44:26,437]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:44:26,437]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:44:26,438] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:26,438] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:26,438]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:26,439]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:26,477] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:44:26,477] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:44:26,477]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:44:26,477]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:44:26,552] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:44:26,552] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:44:26,552]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:44:26,552]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:44:26,555] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:26,555] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:26,555]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:26,555]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:26,615] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:26,616] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:26,616]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:26,616]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:30,301] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:44:30,301] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:44:30,301]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:44:30,301]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:44:30,346] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:44:30,347] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:44:30,347]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:44:30,347]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:44:30,350] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:30,350] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:30,350]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:30,351]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:30,420] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:30,420] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:30,420]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:30,420]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:31,420] INFO (AuthFilter.java:38):/
+[2018-08-31 15:44:31,421] WARN (AuthFilter.java:39):/
+[2018-08-31 15:44:31,421]ERROR (AuthFilter.java:40):/
+[2018-08-31 15:44:31,421]FATAL (AuthFilter.java:41):/
+[2018-08-31 15:44:31,450] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:44:31,451] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:44:31,451]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:44:31,451]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:44:31,452] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:31,453] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:31,453]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:31,453]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:31,499] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:31,499] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:31,500]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:31,500]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:32,294] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:44:32,294] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:44:32,295]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:44:32,295]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:44:32,358] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:44:32,359] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:44:32,359]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:44:32,360]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:44:32,362] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:32,362] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:32,362]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:32,362]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:32,418] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:32,418] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:32,418]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:32,419]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:33,256] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:44:33,256] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:44:33,257]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:44:33,257]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:44:33,298] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:44:33,298] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:44:33,298] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:33,298]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:44:33,298] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:33,298]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:44:33,299]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:33,300]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:33,384] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:33,384] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:33,384]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:33,384]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:37,677] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:44:37,678] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:44:37,678]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:44:37,678]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:44:37,730] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:37,731] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:37,731]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:37,731]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:44:37,731] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:44:37,731] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:44:37,732]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:44:37,732]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:44:37,786] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:44:37,786] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:44:37,786]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:44:37,787]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:41,554] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:46:41,560] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:46:41,560]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:46:41,560]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:46:42,232] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:42,233] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:46:42,234] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:42,234] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:46:42,234]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:42,234]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:46:42,234]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:42,235]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:46:42,320] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:46:42,320] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:46:42,320]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:46:42,320]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:46:42,405] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:46:42,406] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:46:42,406]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:46:42,406]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:46:42,407] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:42,407] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:42,407]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:42,407]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:42,472] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:42,472] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:42,472]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:42,472]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:45,824] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 15:46:45,824] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 15:46:45,824]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 15:46:45,824]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 15:46:45,865] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:46:45,865] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:46:45,865]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:46:45,866]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:46:45,868] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:45,869] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:45,869]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:45,869]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:45,929] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:45,929] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:45,929]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:45,930]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:47,244] INFO (AuthFilter.java:38):/
+[2018-08-31 15:46:47,245] WARN (AuthFilter.java:39):/
+[2018-08-31 15:46:47,245]ERROR (AuthFilter.java:40):/
+[2018-08-31 15:46:47,245]FATAL (AuthFilter.java:41):/
+[2018-08-31 15:46:47,274] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:46:47,274] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:46:47,274]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:46:47,274]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:46:47,276] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:47,276] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:47,276]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:47,277]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:47,318] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:47,318] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:47,319]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:47,319]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:48,438] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 15:46:48,438] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 15:46:48,439]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 15:46:48,439]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 15:46:48,485] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:46:48,485] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:46:48,485]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:46:48,485]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:46:48,488] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:48,489] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:48,489]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:48,489]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:48,546] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:48,546] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:48,546]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:48,546]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:49,608] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:46:49,608] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:46:49,609]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:46:49,609]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:46:49,655] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:46:49,655] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:46:49,655]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:46:49,655] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:49,655]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:46:49,655] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:49,655]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:49,655]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:49,714] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:49,714] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:49,714]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:49,714]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:51,305] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 15:46:51,306] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 15:46:51,306]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 15:46:51,306]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 15:46:51,348] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:51,349] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:51,349] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 15:46:51,350]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:51,350] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 15:46:51,350]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 15:46:51,350]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 15:46:51,350]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 15:46:51,402] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 15:46:51,402] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 15:46:51,402]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 15:46:51,402]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:13,030] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 16:04:13,030] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 16:04:13,030]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 16:04:13,031]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 16:04:13,086] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:13,087] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:13,087]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:13,087]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:13,088] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:04:13,088] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:04:13,088]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:04:13,088]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:04:13,155] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:13,155] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:13,156]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:13,156]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:17,309] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 16:04:17,309] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 16:04:17,309]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 16:04:17,310]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 16:04:17,350] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:04:17,353] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:04:17,353]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:04:17,353]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:04:17,354] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:17,355] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:17,355]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:17,355]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:17,410] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:17,410] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:17,410]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:17,410]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:19,936] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 16:04:19,937] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 16:04:19,937]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 16:04:19,937]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 16:04:19,975] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:04:19,975] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:04:19,976]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:04:19,976]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:04:19,976] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:19,976] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:19,977]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:19,977]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:20,037] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:20,037] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:20,038]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:20,038]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:21,548] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 16:04:21,548] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 16:04:21,548]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 16:04:21,548]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 16:04:21,603] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:04:21,603] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:04:21,603]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:04:21,604]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:04:21,606] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:21,606] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:21,606]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:21,606]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:21,676] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:21,676] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:21,676]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:21,676]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:23,931] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 16:04:23,932] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 16:04:23,932]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 16:04:23,932]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 16:04:23,969] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:04:23,969] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:04:23,969]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:04:23,969]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:04:23,969] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:23,970] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:23,970]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:23,970]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:24,027] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:24,027] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:24,028]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:24,028]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:25,267] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 16:04:25,267] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 16:04:25,267]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 16:04:25,268]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 16:04:25,305] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:25,306] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:25,306]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:25,306]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:04:25,309] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:04:25,309] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:04:25,310]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:04:25,310]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:04:25,364] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:04:25,364] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:04:25,364]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:04:25,365]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:05:40,927] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 16:05:40,928] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 16:05:40,928]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 16:05:40,928]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 16:05:40,979] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:05:40,979] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:05:40,980]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:05:40,980]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:05:40,979] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:05:40,980] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:05:40,980]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:05:40,980]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:05:41,101] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:05:41,101] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:05:41,101]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:05:41,101]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:05:43,598] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 16:05:43,598] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 16:05:43,598]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 16:05:43,598]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 16:05:43,640] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:05:43,640] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:05:43,641]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:05:43,641]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:05:43,644] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:05:43,644] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:05:43,644]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:05:43,644]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:05:43,738] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:05:43,738] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:05:43,738]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:05:43,738]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:05:45,215] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 16:05:45,216] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 16:05:45,216]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 16:05:45,216]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 16:05:45,254] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:05:45,255] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:05:45,255]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:05:45,255]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:05:45,255] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:05:45,256] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:05:45,256]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:05:45,256]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:05:45,315] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:05:45,315] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:05:45,315]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:05:45,315]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:05:46,185] INFO (AuthFilter.java:38):/music/musicView
+[2018-08-31 16:05:46,185] WARN (AuthFilter.java:39):/music/musicView
+[2018-08-31 16:05:46,185]ERROR (AuthFilter.java:40):/music/musicView
+[2018-08-31 16:05:46,185]FATAL (AuthFilter.java:41):/music/musicView
+[2018-08-31 16:05:46,221] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:05:46,221] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:05:46,222]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:05:46,222]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:05:46,221] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:05:46,222] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:05:46,222]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:05:46,222]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:05:46,278] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:05:46,278] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:05:46,279]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:05:46,279]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:27:30,095] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 16:27:30,096] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 16:27:30,096]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 16:27:30,096]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 16:27:30,151] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:27:30,151] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:27:30,152]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:27:30,152] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:27:30,152] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:27:30,152]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:27:30,152]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:27:30,152]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:27:30,285] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:27:30,285] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:27:30,285]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:27:30,285]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:04,194] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 16:59:04,194] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 16:59:04,195]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 16:59:04,195]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 16:59:04,558] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:59:04,558] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:59:04,558] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:04,558]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:59:04,558]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:59:04,558] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:04,559]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:04,559]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:04,649] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 16:59:04,649] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 16:59:04,649]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 16:59:04,649]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 16:59:04,740] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:59:04,741] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:59:04,741]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:59:04,741]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:59:04,743] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:04,743] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:04,743]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:04,743]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:04,820] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:04,820] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:04,820]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:04,820]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:07,157] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 16:59:07,158] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 16:59:07,158]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 16:59:07,158]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 16:59:07,194] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:59:07,194] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:59:07,194]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:59:07,194]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:59:07,199] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:07,199] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:07,200]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:07,200]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:07,242] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 16:59:07,242] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 16:59:07,242]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 16:59:07,242]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 16:59:07,303] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:59:07,304] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:59:07,304]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:59:07,304] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:07,304]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:59:07,304] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:07,304]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:07,305]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:07,379] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:07,379] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:07,380]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:07,380]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:09,747] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 16:59:09,748] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 16:59:09,748]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 16:59:09,748]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 16:59:09,794] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:59:09,794] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:09,795] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:59:09,795] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:09,795]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:59:09,795]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:09,795]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:09,795]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:59:09,866] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:09,866] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:09,866]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:09,866]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:10,911] INFO (AuthFilter.java:38):/
+[2018-08-31 16:59:10,911] WARN (AuthFilter.java:39):/
+[2018-08-31 16:59:10,912]ERROR (AuthFilter.java:40):/
+[2018-08-31 16:59:10,912]FATAL (AuthFilter.java:41):/
+[2018-08-31 16:59:10,936] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:59:10,936] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:59:10,936] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:10,936] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:10,936]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:59:10,936]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:10,936]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:59:10,936]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:10,984] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:10,984] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:10,984]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:10,984]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:56,489] INFO (AuthFilter.java:38):/depart/departList
+[2018-08-31 16:59:56,489] WARN (AuthFilter.java:39):/depart/departList
+[2018-08-31 16:59:56,490]ERROR (AuthFilter.java:40):/depart/departList
+[2018-08-31 16:59:56,490]FATAL (AuthFilter.java:41):/depart/departList
+[2018-08-31 16:59:57,210] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 16:59:57,210] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 16:59:57,216]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 16:59:57,216]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 16:59:57,222] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:57,222] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:57,223]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:57,223]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:57,325] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 16:59:57,325] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 16:59:57,325]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 16:59:57,325]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 16:59:58,537] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 16:59:58,537] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 16:59:58,537]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 16:59:58,538]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:00:20,445] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:00:20,448] INFO (AuthFilter.java:38):/
+[2018-08-31 17:00:20,445] INFO (AuthFilter.java:38):/music/musicList
+[2018-08-31 17:00:20,456] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:00:20,457] WARN (AuthFilter.java:39):/
+[2018-08-31 17:00:20,457]ERROR (AuthFilter.java:40):/
+[2018-08-31 17:00:20,457]FATAL (AuthFilter.java:41):/
+[2018-08-31 17:00:20,458]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:00:20,458]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:00:20,458] WARN (AuthFilter.java:39):/music/musicList
+[2018-08-31 17:00:20,458]ERROR (AuthFilter.java:40):/music/musicList
+[2018-08-31 17:00:20,458]FATAL (AuthFilter.java:41):/music/musicList
+[2018-08-31 17:00:22,112] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:00:22,113] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:00:22,113]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:00:22,113]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:00:22,116] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:00:22,121] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:00:22,122]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:00:22,122]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:00:22,169] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 17:00:22,169] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 17:00:22,169]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 17:00:22,169]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 17:00:22,317] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:00:22,317] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:00:22,318]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:00:22,318]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:00:22,320] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:00:22,320] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:00:22,320]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:00:22,320]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:00:22,391] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:00:22,391] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:00:22,391]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:00:22,392]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:00:25,790] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 17:00:25,791] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 17:00:25,791]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 17:00:25,791]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 17:00:25,843] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:00:25,844] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:00:25,844]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:00:25,844]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:00:25,851] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:00:25,851] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:00:25,851]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:00:25,851]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:00:25,908] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:00:25,908] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:00:25,908]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:00:25,908]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:00:26,948] INFO (AuthFilter.java:38):/
+[2018-08-31 17:00:26,948] WARN (AuthFilter.java:39):/
+[2018-08-31 17:00:26,948]ERROR (AuthFilter.java:40):/
+[2018-08-31 17:00:26,948]FATAL (AuthFilter.java:41):/
+[2018-08-31 17:00:26,974] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:00:26,975] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:00:26,975]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:00:26,975]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:00:26,978] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:00:26,978] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:00:26,978]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:00:26,978]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:00:27,023] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:00:27,024] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:00:27,024]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:00:27,024]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:00:28,017] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:00:28,017] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:00:28,017]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:00:28,018]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:00:28,046] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:00:28,046] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:00:28,046]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:00:28,046]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:00:28,050] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:00:28,050] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:00:28,050]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:00:28,050]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:00:28,101] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:00:28,101] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:00:28,101]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:00:28,101]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:15,097] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:01:15,105] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:01:15,105]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:01:15,105]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:01:15,162] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:01:15,160] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:15,167] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:01:15,168]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:01:15,168]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:01:15,170] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:15,170]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:15,170]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:15,234] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 17:01:15,234] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 17:01:15,234]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 17:01:15,234]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 17:01:15,327] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:01:15,328] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:01:15,328]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:01:15,328] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:15,328]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:01:15,328] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:15,328]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:15,328]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:15,435] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:15,435] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:15,435]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:15,435]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:22,498] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 17:01:22,504] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 17:01:22,504]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 17:01:22,504]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 17:01:23,027] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 17:01:23,028] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 17:01:23,028]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 17:01:23,028]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 17:01:23,242] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:01:23,242] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:01:23,243]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:01:23,243]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:01:23,250] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:23,251] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:23,251]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:23,251]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:23,312] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:23,312] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:23,312]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:23,313]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:26,516] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 17:01:26,517] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 17:01:26,517]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 17:01:26,517]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 17:01:26,556] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:26,556] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:26,556]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:26,557]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:26,559] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:01:26,559] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:01:26,559]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:01:26,559]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:01:26,619] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:26,619] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:26,619]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:26,619]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:27,603] INFO (AuthFilter.java:38):/
+[2018-08-31 17:01:27,604] WARN (AuthFilter.java:39):/
+[2018-08-31 17:01:27,604]ERROR (AuthFilter.java:40):/
+[2018-08-31 17:01:27,604]FATAL (AuthFilter.java:41):/
+[2018-08-31 17:01:27,633] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:01:27,633] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:01:27,633]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:01:27,633]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:01:27,636] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:27,636] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:27,636]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:27,636]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:27,679] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:27,680] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:27,680]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:27,680]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:28,461] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:01:28,462] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:01:28,462]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:01:28,462]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:01:28,510] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:01:28,510] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:01:28,510] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:28,511]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:01:28,511] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:28,511]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:28,511]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:28,511]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:01:28,572] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:28,572] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:28,572]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:28,572]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:57,386] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:01:57,387] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:01:57,387]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:01:57,387]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:01:57,440] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:57,441] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:57,441]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:57,441]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:01:57,447] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:01:57,447] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:01:57,448]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:01:57,448]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:01:57,507] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:01:57,507] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:01:57,507]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:01:57,507]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:02:44,041] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:02:44,041] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:02:44,041]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:02:44,041]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:02:44,434] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:02:44,434] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:02:44,434]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:02:44,434]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:02:44,444] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:02:44,444] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:02:44,444]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:02:44,444]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:02:44,537] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:02:44,538] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:02:44,538]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:02:44,538]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:05:02,035] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:05:02,042] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:05:02,042]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:05:02,042]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:05:02,736] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:05:02,737] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:05:02,737]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:05:02,737]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:05:02,738] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:05:02,738] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:05:02,739]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:05:02,739]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:05:02,822] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 17:05:02,823] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 17:05:02,823]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 17:05:02,823]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 17:05:02,912] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:05:02,913] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:05:02,913]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:05:02,913]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:05:02,914] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:05:02,914] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:05:02,915]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:05:02,915]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:05:02,985] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:05:02,986] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:05:02,986]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:05:02,986]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:05:06,639] INFO (AuthFilter.java:38):/login/login
+[2018-08-31 17:05:06,639] WARN (AuthFilter.java:39):/login/login
+[2018-08-31 17:05:06,640]ERROR (AuthFilter.java:40):/login/login
+[2018-08-31 17:05:06,640]FATAL (AuthFilter.java:41):/login/login
+[2018-08-31 17:05:06,682] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:05:06,682] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:05:06,682] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:05:06,682] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:05:06,682]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:05:06,682]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:05:06,682]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:05:06,683]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:05:06,784] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:05:06,784] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:05:06,784]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:05:06,784]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:05:08,110] INFO (AuthFilter.java:38):/
+[2018-08-31 17:05:08,111] WARN (AuthFilter.java:39):/
+[2018-08-31 17:05:08,111]ERROR (AuthFilter.java:40):/
+[2018-08-31 17:05:08,111]FATAL (AuthFilter.java:41):/
+[2018-08-31 17:05:08,140] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:05:08,140] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:05:08,141] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:05:08,141]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:05:08,141]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:05:08,141] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:05:08,141]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:05:08,141]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:05:08,189] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:05:08,189] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:05:08,189]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:05:08,189]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:05:09,013] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:05:09,013] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:05:09,013]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:05:09,013]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:05:09,056] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:05:09,057] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:05:09,057]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:05:09,057]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:05:09,058] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:05:09,058] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:05:09,058]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:05:09,058]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:05:09,118] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:05:09,118] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:05:09,118]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:05:09,118]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:07:35,836] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:07:35,836] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:07:35,836]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:07:35,836]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:08:25,548] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:08:25,548] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:08:25,548]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:08:25,548]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:08:45,896] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:08:45,896] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:08:45,896]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:08:45,896]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:08:46,256] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:08:46,256] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:08:46,257]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:08:46,257]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:08:46,261] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:08:46,261] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:08:46,261]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:08:46,261]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:08:46,345] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:08:46,346] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:08:46,346]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:08:46,346]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:11:45,980] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:11:45,980] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:11:45,980]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:11:45,980]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:11:46,029] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:11:46,030] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:11:46,030]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:11:46,030]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:11:46,030] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:11:46,031] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:11:46,032]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:11:46,032]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:11:46,139] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:11:46,139] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:11:46,139]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:11:46,139]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:23:26,090] INFO (AuthFilter.java:38):/movie/movieList
+[2018-08-31 17:23:26,091] WARN (AuthFilter.java:39):/movie/movieList
+[2018-08-31 17:23:26,091]ERROR (AuthFilter.java:40):/movie/movieList
+[2018-08-31 17:23:26,091]FATAL (AuthFilter.java:41):/movie/movieList
+[2018-08-31 17:23:26,446] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:23:26,446] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:23:26,447]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:23:26,447]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:23:26,451] INFO (AuthFilter.java:38):/bs3/css/common.css
+[2018-08-31 17:23:26,451] WARN (AuthFilter.java:39):/bs3/css/common.css
+[2018-08-31 17:23:26,451]ERROR (AuthFilter.java:40):/bs3/css/common.css
+[2018-08-31 17:23:26,452]FATAL (AuthFilter.java:41):/bs3/css/common.css
+[2018-08-31 17:23:26,584] INFO (AuthFilter.java:38):/bs3/js/common.js
+[2018-08-31 17:23:26,585] WARN (AuthFilter.java:39):/bs3/js/common.js
+[2018-08-31 17:23:26,585]ERROR (AuthFilter.java:40):/bs3/js/common.js
+[2018-08-31 17:23:26,585]FATAL (AuthFilter.java:41):/bs3/js/common.js
+[2018-08-31 17:23:27,433] INFO (AuthFilter.java:38):/movie/movieinsert
+[2018-08-31 17:23:27,434] WARN (AuthFilter.java:39):/movie/movieinsert
+[2018-08-31 17:23:27,434]ERROR (AuthFilter.java:40):/movie/movieinsert
+[2018-08-31 17:23:27,434]FATAL (AuthFilter.java:41):/movie/movieinsert
+[2018-08-31 17:23:30,042] INFO (AuthFilter.java:38):/movie/movieinsert
+[2018-08-31 17:23:30,042] WARN (AuthFilter.java:39):/movie/movieinsert
+[2018-08-31 17:23:30,042]ERROR (AuthFilter.java:40):/movie/movieinsert
+[2018-08-31 17:23:30,042]FATAL (AuthFilter.java:41):/movie/movieinsert

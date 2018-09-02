@@ -3,6 +3,13 @@
 <%@ include file ="/WEB-INF/views/common/common.jsp" %>
 
 <body>
+<c:if test="${!empty rMap}">
+	<script>
+		alert('${rMap.msg}');
+		location.href="/music/musicList";
+	</script>
+
+</c:if>
 <div id="wrapper" class="container">
 <jsp:include page="/WEB-INF/views/menu/left.jsp"/>
 <table class="table table-hover">
@@ -23,10 +30,10 @@
 		<c:forEach var="mi" items="${music}">
 		<tr>
 			<td>${mi.mcNum}</td>
-			<td>${mi.mcName}</td>
+			<td><a href="/music/musicView?mcNum=${mi.mcNum}">${mi.mcName}</a></td>
 			<td>${mi.mcSinger}</td>
 			<td>${mi.mcVendor}</td>
-			<td><a href="/music/mlike?mcNum=${mi.mcNum}&mcLike=${mi.mcLike}">${mi.mcLike}</a></td>
+			<td>${mi.mcLike}</td>
 			<td>${mi.mcDislike}</td>
 			<td>${mi.mcCredat}</td>
 			<td>${mi.mcDesc}</td>
@@ -35,9 +42,18 @@
 	</tbody>
 
 </table>
-
+<div class="btns">
 
 </div>
+	<button onclick="musicInsert()">등록하기</button>
+</div>
+
+<script>
+function musicInsert(){
+	location.href = "/music/musicInsert";
+}
+
+</script>
 
 <jsp:include page="/WEB-INF/views/menu/bottom.jsp"/>
 

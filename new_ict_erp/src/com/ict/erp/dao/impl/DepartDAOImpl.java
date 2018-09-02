@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Map;
 
 import com.ict.erp.common.DBCon;
+import com.ict.erp.common.TBean;
 import com.ict.erp.dao.DepartDAO;
 import com.ict.erp.vo.DepartInfo;
 
@@ -36,15 +37,12 @@ public class DepartDAOImpl extends CommonDAOImpl implements DepartDAO {
 			
 			rs = ps.executeQuery();
 			
-			dList = new ArrayList<DepartInfo>();
-			
-			while(rs.next()) {
-				di = new DepartInfo(rs.getInt("dinum"), rs.getString("dicode"), rs.getString("diname"), rs.getString("didesc"));
-				dList.add(di);
-			}
+			dList = TBean.convertRS(rs, DepartInfo.class);
 		
 		} catch(SQLException e) {
 			throw e;
+		} catch (Exception e) {
+			e.printStackTrace();
 		}finally {
 			try {
 				

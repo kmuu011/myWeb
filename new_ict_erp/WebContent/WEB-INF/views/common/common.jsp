@@ -15,14 +15,14 @@ request.setAttribute("cmd", Utils.getCmd(uri));
 %>
 
 <c:set var="rPath" value="<%=rPath%>"/>
-<c:if test="${cmd ne 'login.jsp'}">
+<%-- <c:if test="${cmd ne 'login.jsp'}">
 	<c:if test="${empty user}">
 		<script>
 			location.href = "/login/login";
 		</script>
 	
 	</c:if>
-</c:if>
+</c:if> --%>
 
 <!doctype html>
 <html>

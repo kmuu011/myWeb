@@ -39,10 +39,10 @@ String rPath = request.getContextPath();
                     <a href="<%=rPath%>/music/musicList">음악 리스트</a>
                 </li>
                 <li>
-                    <a href="#">Services</a>
+                    <a href="<%=rPath%>/movie/movieList">영화 리스트</a>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="<%=rPath%>/bean/beanList">콩콩 리스트</a>
                 </li>
             </ul>
         </div>

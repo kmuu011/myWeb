@@ -42,4 +42,97 @@ public class MusicDAOImpl extends CommonDAOImpl implements MusicDAO{
 		
 	}
 
+	@Override
+	public int insertMusicInfo(MusicInfo msi) throws SQLException {
+		String sql = "insert into music_chart values(seq_music.nextval, ?, ?, ?, 0, 0, ?, ?)";
+		
+		try {
+			ps = con.prepareStatement(sql);
+			ps.setString(1, msi.getMcName());
+			ps.setString(2, msi.getMcSinger());
+			ps.setString(3, msi.getMcVendor());
+			ps.setString(4, msi.getMcCredat());
+			ps.setString(5, msi.getMcDesc());
+			
+			return ps.executeUpdate();
+			
+		}catch(SQLException e) {
+			throw e;
+		}finally {
+			close();
+		}
+
+	}
+
+	@Override
+	public MusicInfo selectInfo(MusicInfo msi) throws SQLException {
+		String sql = "select * from music_chart where mcnum=?";
+		
+		try {
+			ps = con.prepareStatement(sql);
+			ps.setInt(1, msi.getMcNum());
+			
+			rs = ps.executeQuery();
+			
+			
+			while(rs.next()) {
+				msi.setMcName(rs.getString("mcname"));
+				msi.setMcSinger(rs.getString("mcsinger"));
+				msi.setMcVendor(rs.getString("mcvendor"));
+				msi.setMcLike(rs.getInt("mclike"));
+				msi.setMcDislike(rs.getInt("mcdislike"));
+				msi.setMcCredat(rs.getString("mccredat"));
+				msi.setMcDesc(rs.getString("mcdesc"));
+			}
+			
+			return msi;
+		}catch(SQLException e) {
+			throw e;
+		} finally {
+			close();
+		}
+	}
+
+	@Override
+	public int deleteMusicInfo(MusicInfo msi) throws SQLException {
+		String sql  = "delete from music_chart where mcnum=?";
+		
+		try {
+			ps = con.prepareStatement(sql);
+			ps.setInt(1, msi.getMcNum());
+			
+			return ps.executeUpdate();
+			
+	
+		}catch(SQLException e) {
+			throw e;
+		} finally {
+			close();
+		}
+	}
+
+	@Override
+	public int updateMusicInfo(MusicInfo msi) throws SQLException {
+		String sql = "update music_chart where "  
+					+ " mcnum=?, mcsinger=?, mcvendor=?,"  
+					+ "mccredat=?, mcdesc=? where mcnum=?";
+		
+		try {
+			ps = con.prepareStatement(sql);
+			ps.setString(1, msi.getMcName());
+			ps.setString(2, msi.getMcSinger());
+			ps.setString(3, msi.getMcVendor());
+			ps.setString(4, msi.getMcCredat());
+			ps.setString(5, msi.getMcDesc());
+			ps.setInt(6, msi.getMcNum());
+			
+			return ps.executeUpdate();
+		}catch (SQLException e) {
+			throw e;
+		}finally {
+			close();
+		}
+
+	}
+
 }

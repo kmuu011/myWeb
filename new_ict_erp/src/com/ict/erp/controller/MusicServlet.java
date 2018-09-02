@@ -10,6 +10,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
 import com.ict.erp.service.MusicService;
 import com.ict.erp.service.impl.MusicServiceImpl;
 import com.ict.erp.utils.Utils;
@@ -21,8 +24,10 @@ import com.ict.erp.vo.MusicInfo;
 		name = "MusicServlet",
 		loadOnStartup = 1
 		)
+
 public class MusicServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
+	private Log log = LogFactory.getLog(this.getClass());
 
 	String uri;
 	
@@ -33,18 +38,19 @@ public class MusicServlet extends HttpServlet {
 		uri = request.getRequestURI();
 		String cmd = Utils.getCmd(uri);
 		System.out.println(cmd);
+		
 		try {
 			if(cmd.equals("musicList")) {
 				request.setAttribute("music", ms.getMusicInfo());
-			}else if(cmd.equals("mLike")) {
+			}else if(cmd.equals("musicView")) {
+				
 				MusicInfo msi = new MusicInfo();
-				String mcNum = request.getParameter("mcNum");
-				String mcLike = request.getParameter("mcLike");
 				
-				msi.setMcNum(Integer.parseInt(mcNum));
-				msi.setMcLike(Integer.parseInt(mcLike));
+				int mcNum = Integer.parseInt(request.getParameter("mcNum"));
 				
-				
+				msi.setMcNum(mcNum);
+				request.setAttribute("msi", ms.getInfo(msi));
+				System.out.println(msi);
 				
 				
 			}
@@ -59,8 +65,52 @@ public class MusicServlet extends HttpServlet {
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
-		doGet(request, response);
+		uri = request.getRequestURI();
+		String cmd = Utils.getCmd(uri);
+		request.setCharacterEncoding("UTF-8");
+		
+		try {
+			if(cmd.equals("musicInsert")) {
+				MusicInfo msi = new MusicInfo();
+				msi.setMcName(request.getParameter("mcName"));
+				msi.setMcSinger(request.getParameter("mcSinger"));
+				msi.setMcVendor(request.getParameter("mcVendor"));
+				msi.setMcCredat(request.getParameter("mcCredat"));
+				msi.setMcDesc(request.getParameter("mcDesc"));
+				
+				System.out.println(msi);
+				request.setAttribute("rMap", ms.getInsert(msi));
+				
+			}else if(cmd.equals("musicDelete")) {
+				int mcNum = Integer.parseInt(request.getParameter("mcNum"));
+				MusicInfo msi = new MusicInfo();
+				
+				msi.setMcNum(mcNum);
+				
+				request.setAttribute("rMap", ms.getDelete(msi));
+				
+				System.out.println(msi);
+
+				uri = "/music/musicList";
+			}else if(cmd.equals("musicModify")) {
+				MusicInfo msi = new MusicInfo();
+				msi.setMcName(request.getParameter("mcName"));
+				msi.setMcSinger(request.getParameter("mcSinger"));
+				msi.setMcVendor(request.getParameter("mcVendor"));
+				msi.setMcCredat(request.getParameter("mcCredat"));
+				msi.setMcDesc(request.getParameter("mcDesc"));
+				
+				
+				
+				
+			}
+			
+		}catch(SQLException e) {
+			e.printStackTrace();
+		}
+		
+		
+		doService(request,response);
 	}
 	
 	
