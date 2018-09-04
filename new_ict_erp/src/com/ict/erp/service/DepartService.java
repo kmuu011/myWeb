@@ -15,5 +15,4 @@ public interface DepartService{
 	public Map<String,Object> updateDepartInfo(DepartInfo di) throws SQLException;
 	public Map<String,Object> deleteDepartInfo(List<Integer> diNums) throws SQLException;
 	
-
 }

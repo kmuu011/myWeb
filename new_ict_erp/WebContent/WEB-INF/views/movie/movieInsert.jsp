@@ -3,6 +3,13 @@
 <%@ include file ="/WEB-INF/views/common/common.jsp" %>
 
 <body>
+<c:if test="${!empty cnt}">
+	<script>
+		alert('${cnt}개의 작업이 성공!');
+		location.href = "/movie/movieList";
+	</script>
+</c:if>
+
 <div id="wrapper" class="container">
 <jsp:include page="/WEB-INF/views/menu/left.jsp"/>
 

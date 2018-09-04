@@ -21,7 +21,9 @@ import org.apache.commons.fileupload.servlet.ServletFileUpload;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
+import com.ict.erp.common.GetFile;
 import com.ict.erp.common.IBean;
+import com.ict.erp.common.TBean;
 import com.ict.erp.service.MovieService;
 import com.ict.erp.service.impl.MovieServiceImpl;
 import com.ict.erp.utils.Utils;
@@ -59,16 +61,25 @@ public class MovieServlet extends HttpServlet {
 			
 			if(cmd.equals("movieList")) {
 				request.setAttribute("miList", ms.getMovieInfo());
+			} else if( cmd.equals("movieView")) {
+				MovieInfo mi = new MovieInfo();
+				mi.setTmNum(Integer.parseInt(request.getParameter("tmNum")));
+
+				request.setAttribute("mi", ms.getMI(mi));
+				
+				
 			}
-			
 			
 		}catch(SQLException e) {
 			e.printStackTrace();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
+		
 		System.out.println(cmd);
 		
 		doService(request,response);
-		
 		
 	}
 
@@ -76,55 +87,32 @@ public class MovieServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		uri = request.getRequestURI();
 		String cmd = Utils.getCmd(uri);
+		request.setCharacterEncoding("utf-8");
 		
 		try {
 			
 			if(cmd.equals("movieInsert")){
 				
-				if(!ServletFileUpload.isMultipartContent(request)) {
-					throw new ServletException("폼 인크립트가 파일 업로드에 적합하지 않습니다.");
-				}
+				MovieInfo mi = IBean.parseRequest(GetFile.gFile(request), MovieInfo.class);
 				
-				DiskFileItemFactory dff = new DiskFileItemFactory();
+				System.out.println(mi);
 				
-				ServletFileUpload sfu = new ServletFileUpload(dff);
+				request.setAttribute("cnt", ms.insertMovieInfo(mi));
 				
-				sfu.setHeaderEncoding("utf-8");
-				sfu.setSizeMax(UP_TOTAL_SIZE);
-				sfu.setFileSizeMax(UP_FILE_SIZE);
+			}else if(cmd.equals("movieUpdate")) {
 				
-				List<FileItem> fList = sfu.parseRequest(request);
+				MovieInfo mi = IBean.parseRequest(GetFile.gFile(request), MovieInfo.class);
+				GetFile.delFile(ms.getMI(mi));
 				
-				Map<String,String> params = new HashMap<String,String>();
+				request.setAttribute("cnt", ms.updateMovieInfo(mi));
 				
-				for(FileItem fi:fList) {
-					
-					if(fi.isFormField()) {
-						params.put(fi.getFieldName(), fi.getString("utf-8"));
-						
-					}else{
-						
-						File f = new File(fi.getName());
-						
-						String fName = File.separator + "upload" + File.separator + System.currentTimeMillis() + fi.getName().substring(fi.getName().lastIndexOf("."));
-						
-						String fPath = UP_PATH + fName;
-						
-						File sFile = new File(fPath);
-						
-						fi.write(sFile);
-						
-						params.put(fi.getFieldName(), fName);
-						
-					}
-					
-				}
+				uri = "/movie/movieList";
+			}else if(cmd.equals("movieDelete")){
+				MovieInfo mi = IBean.parseRequest(GetFile.gFile(request), MovieInfo.class);
+				GetFile.delFile(ms.getMI(mi));
+				request.setAttribute("cnt", ms.deleteMovieInfo(mi.getTmNum()));
 				
-				MovieInfo mi = IBean.parseRequest(params, MovieInfo.class);
-				
-				log.debug(params);
-				log.debug(mi);
-				
+				uri = "/movie/movieList";
 			}
 			
 			

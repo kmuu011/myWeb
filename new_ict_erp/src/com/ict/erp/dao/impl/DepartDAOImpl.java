@@ -18,13 +18,10 @@ public class DepartDAOImpl extends CommonDAOImpl implements DepartDAO {
 	public List<DepartInfo> selectDepartInfoList(DepartInfo di) throws SQLException {
 		List<DepartInfo> dList = null;
 		ps = null;
-		
 		rs = null;
 		
-//		String sql = "select dinum, dicode, diname, didesc from depart_info order by dinum";
-		
-		String sql = "select * from(";
-		sql += "select di.*,rownum as rNum from("
+		String sql = "select * from("
+			+ "select di.*,rownum as rNum from("
 			+ "select * from depart_info"
 			+ " order by dinum desc) di "
 			+ " where rownum<=?) "
@@ -38,14 +35,14 @@ public class DepartDAOImpl extends CommonDAOImpl implements DepartDAO {
 			rs = ps.executeQuery();
 			
 			dList = TBean.convertRS(rs, DepartInfo.class);
-		
+		System.out.println(dList);
 		} catch(SQLException e) {
 			throw e;
 		} catch (Exception e) {
 			e.printStackTrace();
 		}finally {
+			
 			try {
-				
 				close();
 				
 			} catch (Exception e) {
@@ -55,7 +52,7 @@ public class DepartDAOImpl extends CommonDAOImpl implements DepartDAO {
 		}
 		return dList;
 	}
-
+	
 	@Override
 	public DepartInfo select(int diNum) throws SQLException {
 		DepartInfo di = null;
@@ -81,10 +78,7 @@ public class DepartDAOImpl extends CommonDAOImpl implements DepartDAO {
 
 	@Override
 	public int insertDepartInfo(DepartInfo di) throws SQLException {
-
 		try {
-			
-			
 			String sql = "insert into depart_info values(seq_dinum.nextval,?,?,?)";
 			
 			 ps = con.prepareStatement(sql);
@@ -100,8 +94,6 @@ public class DepartDAOImpl extends CommonDAOImpl implements DepartDAO {
 		} finally {
 			close();
 		}
-		
-		
 	}
 
 	@Override

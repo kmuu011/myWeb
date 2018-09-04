@@ -577,3 +577,23 @@
 [2018-09-02 12:03:18,442]DEBUG (BeanServlet.java:84):BeanInfo [bNum=null, bName=¿Ã¿¿, bHobby=»˜¿∆]
 [2018-09-02 12:15:43,114]DEBUG (BeanServlet.java:83):BeanInfo [bNum=null, bName=123, bHobby=124]
 [2018-09-02 12:15:43,114]DEBUG (BeanServlet.java:83):BeanInfo [bNum=null, bName=123, bHobby=124]
+[2018-09-02 14:44:59,695]DEBUG (MovieServlet.java:124):{tmName=¥ıπÆ, tmDesc=¿ÎÉm, tmPrice=20000, tmStartDat=2018-09-12, tmEndDat=2018-09-13, tmImg=\upload\1535867099623.jpg}
+[2018-09-02 14:44:59,695]DEBUG (MovieServlet.java:124):{tmName=¥ıπÆ, tmDesc=¿ÎÉm, tmPrice=20000, tmStartDat=2018-09-12, tmEndDat=2018-09-13, tmImg=\upload\1535867099623.jpg}
+[2018-09-02 14:44:59,701]DEBUG (MovieServlet.java:125):MovieInfo [tmNum=null, tmName=¥ıπÆ, tmPrice=20000, tmStartdat=null, tmEnddat=null, tmCredat=null, tmDesc=¿ÎÉm, tmCnt=null, tmImg=\upload\1535867099623.jpg]
+[2018-09-02 14:44:59,701]DEBUG (MovieServlet.java:125):MovieInfo [tmNum=null, tmName=¥ıπÆ, tmPrice=20000, tmStartdat=null, tmEnddat=null, tmCredat=null, tmDesc=¿ÎÉm, tmCnt=null, tmImg=\upload\1535867099623.jpg]
+[2018-09-03 16:03:58,234]DEBUG (MovieServlet.java:126):{tmName=1, tmDesc=23, tmPrice=2, tmStartDat=2018-09-04, tmEndDat=2018-09-12, tmImg=\upload\1535958238156.jpg}
+[2018-09-03 16:03:58,234]DEBUG (MovieServlet.java:126):{tmName=1, tmDesc=23, tmPrice=2, tmStartDat=2018-09-04, tmEndDat=2018-09-12, tmImg=\upload\1535958238156.jpg}
+[2018-09-03 16:03:58,239]DEBUG (MovieServlet.java:127):MovieInfo [tmNum=null, tmName=1, tmPrice=2, tmStartdat=null, tmEnddat=null, tmCredat=null, tmDesc=23, tmCnt=null, tmImg=\upload\1535958238156.jpg]
+[2018-09-03 16:03:58,239]DEBUG (MovieServlet.java:127):MovieInfo [tmNum=null, tmName=1, tmPrice=2, tmStartdat=null, tmEnddat=null, tmCredat=null, tmDesc=23, tmCnt=null, tmImg=\upload\1535958238156.jpg]
+[2018-09-03 16:06:36,549]DEBUG (MovieServlet.java:126):{tmName=r, tmDesc=w, tmPrice=2, tmStartDat=2018-09-11, tmEndDat=2018-09-05, tmImg=\upload\1535958396547.jpg}
+[2018-09-03 16:06:36,549]DEBUG (MovieServlet.java:126):{tmName=r, tmDesc=w, tmPrice=2, tmStartDat=2018-09-11, tmEndDat=2018-09-05, tmImg=\upload\1535958396547.jpg}
+[2018-09-03 16:06:36,550]DEBUG (MovieServlet.java:127):MovieInfo [tmNum=null, tmName=r, tmPrice=2, tmStartdat=null, tmEnddat=null, tmCredat=null, tmDesc=w, tmCnt=null, tmImg=\upload\1535958396547.jpg]
+[2018-09-03 16:06:36,550]DEBUG (MovieServlet.java:127):MovieInfo [tmNum=null, tmName=r, tmPrice=2, tmStartdat=null, tmEnddat=null, tmCredat=null, tmDesc=w, tmCnt=null, tmImg=\upload\1535958396547.jpg]
+[2018-09-03 16:09:14,628]DEBUG (MovieServlet.java:125):{tmName=1251, tmDesc=5, tmPrice=125, tmStartDat=2018-09-24, tmEndDat=2018-09-27, tmImg=\upload\1535958554559.jpg}
+[2018-09-03 16:09:14,628]DEBUG (MovieServlet.java:125):{tmName=1251, tmDesc=5, tmPrice=125, tmStartDat=2018-09-24, tmEndDat=2018-09-27, tmImg=\upload\1535958554559.jpg}
+[2018-09-03 16:09:14,632]DEBUG (MovieServlet.java:126):MovieInfo [tmNum=null, tmName=1251, tmPrice=125, tmStartdat=null, tmEnddat=null, tmCredat=null, tmDesc=5, tmCnt=null, tmImg=\upload\1535958554559.jpg]
+[2018-09-03 16:09:14,632]DEBUG (MovieServlet.java:126):MovieInfo [tmNum=null, tmName=1251, tmPrice=125, tmStartdat=null, tmEnddat=null, tmCredat=null, tmDesc=5, tmCnt=null, tmImg=\upload\1535958554559.jpg]
+[2018-09-03 16:12:36,274]DEBUG (MovieServlet.java:125):{tmName=qqw, tmDesc=2, tmPrice=123, tmStartDat=2018-09-11, tmEndDat=2018-09-15, tmImg=\upload\1535958756203.jpg}
+[2018-09-03 16:12:36,274]DEBUG (MovieServlet.java:125):{tmName=qqw, tmDesc=2, tmPrice=123, tmStartDat=2018-09-11, tmEndDat=2018-09-15, tmImg=\upload\1535958756203.jpg}
+[2018-09-03 16:12:36,280]DEBUG (MovieServlet.java:126):MovieInfo [tmNum=null, tmName=qqw, tmPrice=123, tmStartDat=2018-09-11, tmEndDat=2018-09-15, tmCredat=null, tmDesc=2, tmCnt=null, tmImg=\upload\1535958756203.jpg]
+[2018-09-03 16:12:36,280]DEBUG (MovieServlet.java:126):MovieInfo [tmNum=null, tmName=qqw, tmPrice=123, tmStartDat=2018-09-11, tmEndDat=2018-09-15, tmCredat=null, tmDesc=2, tmCnt=null, tmImg=\upload\1535958756203.jpg]

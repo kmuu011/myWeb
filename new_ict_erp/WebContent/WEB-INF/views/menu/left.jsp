@@ -42,7 +42,7 @@ String rPath = request.getContextPath();
                     <a href="<%=rPath%>/movie/movieList">영화 리스트</a>
                 </li>
                 <li>
-                    <a href="<%=rPath%>/bean/beanList">콩콩 리스트</a>
+                    <a href="<%=rPath%>">콩콩 </a>
                 </li>
             </ul>
         </div>

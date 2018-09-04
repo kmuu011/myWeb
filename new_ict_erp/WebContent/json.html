@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<button type='button' id='btn'>읭</button>
+
+<button type='button' id='kawai'>카와이쟝</button>
+
+<table border="1">
+	<thead>
+		<tr>
+			<th>번호</th>
+			<th>이름</th>
+			<th>포스터</th>
+				
+		</tr>
+	</thead>
+	
+	<tbody id="tBody">
+		
+	
+	</tbody>	
+</table>
+
+
+<script>
+	document.querySelector('#btn').onclick = function(){
+		var req = new XMLHttpRequest();
+		
+		req.onreadystatechange = function(){
+			if(req.readyState===req.DONE){
+				if(req.status ==200){
+					var obj = JSON.parse(req.responseText);
+					var html ='';
+					
+					for(var i=0; i<obj.length ;i++){
+						html+= '<tr>';
+						html+= '<td>' + obj[i].tmNum + '</td>';
+						html+= '<td>' + obj[i].tmName + '</td>';
+						if(i===2){
+							html+= '<td><img src="' + obj[i].tmImg + '" width="600px""></td>';
+						} else{
+							html+= '<td><img src="' + obj[i].tmImg + '" width="200px""></td>';
+						}
+						html+= '</tr>';
+					}
+					
+					document.querySelector('#tBody').innerHTML = html;
+				}else{
+					
+				}
+				
+			}
+		}
+		var param ={name:'홍길동', age:'33', address:'seoul'};
+		param = encodeURIComponent(JSON.stringify(param));
+		req.open('POST','/json/list?param=' + param);
+		req.send();
+	}
+	
+	
+	
+	document.querySelector('#kawai').onclick = function(){
+		var req = new XMLHttpRequest();
+		
+		req.onreadystatechange = function(){
+			if(req.readyState===req.DONE){
+				if(req.status ==200){
+					var obj = JSON.parse(req.responseText);
+					var html ='';
+					
+					for(var i=0; i<obj.length ;i++){
+						html+= '<tr>';
+						if(i===2){
+							html+= '<td><img src="' + obj[i].tmImg + '" width="1200px""></td>';
+						} else{
+							html+= '<td><img src="' + obj[i].tmImg + '" width="1px""></td>';
+						}
+						html+= '</tr>';
+					}
+					
+					document.querySelector('#tBody').innerHTML = html;
+				}else{
+					
+				}
+				
+			}
+		}
+		var param ={name:'홍길동', age:'33', address:'seoul'};
+		param = encodeURIComponent(JSON.stringify(param));
+		req.open('get','/json/list?param=' + param);
+		req.send();
+	}
+</script>
+</body>
+</html>
