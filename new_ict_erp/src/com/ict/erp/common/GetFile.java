@@ -24,7 +24,6 @@ public class GetFile {
 	private static final int THRESHOLD_SIZE = 1024*1024*5;//5MB
 	private static final int UP_TOTAL_SIZE = 1024*1024*100;//100MB
 	private static final int UP_FILE_SIZE = 1024*1024*20;//20MB
-	
 		
 	private static final File TEMP_REPOSITORY = new File(System.getProperty("java.io.tmpdir"));
 	

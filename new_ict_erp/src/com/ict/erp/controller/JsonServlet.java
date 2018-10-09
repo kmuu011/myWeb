@@ -40,7 +40,6 @@ public class JsonServlet extends HttpServlet {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
-				
 	}
 
 
@@ -49,9 +48,11 @@ public class JsonServlet extends HttpServlet {
 		Map<String,String> pMap = gs.fromJson(request.getParameter("param"), Map.class);
 		
 		PrintWriter pw = response.getWriter();
+		
 		MovieService ms = new MovieServiceImpl();
 		
 		List<MovieInfo> mi;
+		
 		try {
 			mi = ms.getMovieInfo();
 			String resStr = gs.toJson(mi);
@@ -61,6 +62,32 @@ public class JsonServlet extends HttpServlet {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
+	}
+	
+	protected void doPut(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		System.out.println("put");
+
+        StringBuilder sb = new StringBuilder();
+        String s;
+        
+        while ((s = request.getReader().readLine()) != null) {
+            sb.append(s);
+        }
+        
+		Map<String,String> pMap = gs.fromJson(sb.toString(),Map.class);
+		System.out.println(pMap); 
+		response.setContentType("text/html;charset=utf-8");
+		PrintWriter pw = response.getWriter();
+		
+
+	}
+	
+	@Override
+	protected void doDelete(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		System.out.println("delete");
+		response.setContentType("text/html;charset=utf-8");
+		PrintWriter pw = response.getWriter();
+
 	}
 
 	

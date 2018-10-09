@@ -49,13 +49,11 @@ public class MovieServlet extends HttpServlet {
 	
 	private static final String UP_PATH = "C:\\jsp_study\\workspace\\gits\\myWeb\\new_ict_erp\\WebContent";
 	
-      
 	MovieService ms = new MovieServiceImpl();
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		uri = request.getRequestURI();
 		String cmd = Utils.getCmd(uri);
-		
 		
 		try {
 			
@@ -66,7 +64,6 @@ public class MovieServlet extends HttpServlet {
 				mi.setTmNum(Integer.parseInt(request.getParameter("tmNum")));
 
 				request.setAttribute("mi", ms.getMI(mi));
-				
 				
 			}
 			
